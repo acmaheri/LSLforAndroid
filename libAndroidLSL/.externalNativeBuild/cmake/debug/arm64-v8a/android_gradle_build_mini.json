@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/acmaheri/Documents/sBlum/labstreaminglayer/LSL/liblsl-Android/lslNotchCombo/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/acmaheri/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/acmaheri/Documents/sBlum/labstreaminglayer/LSL/liblsl-Android/lslNotchCombo/liblslCode/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "lsl-Debug-arm64-v8a": {
+      "artifactName": "lsl",
+      "buildCommand": "/home/acmaheri/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/acmaheri/Documents/sBlum/labstreaminglayer/LSL/liblsl-Android/lslNotchCombo/liblslCode/.externalNativeBuild/cmake/debug/arm64-v8a --target lsl",
+      "abi": "arm64-v8a",
+      "output": "/home/acmaheri/Documents/sBlum/labstreaminglayer/LSL/liblsl-Android/lslNotchCombo/liblslCode/build/intermediates/cmake/debug/obj/arm64-v8a/liblsl.so"
+    }
+  }
+}

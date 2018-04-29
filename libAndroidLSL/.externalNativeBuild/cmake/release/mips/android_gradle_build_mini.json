@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/acmaheri/Documents/Privatsforschung/LSLforAndroid/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/acmaheri/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/acmaheri/Documents/Privatsforschung/LSLforAndroid/libAndroidLSL/.externalNativeBuild/cmake/release/mips --target clean"
+  ],
+  "libraries": {
+    "lsl-Release-mips": {
+      "artifactName": "lsl",
+      "buildCommand": "/home/acmaheri/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/acmaheri/Documents/Privatsforschung/LSLforAndroid/libAndroidLSL/.externalNativeBuild/cmake/release/mips --target lsl",
+      "abi": "mips",
+      "output": "/home/acmaheri/Documents/Privatsforschung/LSLforAndroid/libAndroidLSL/build/intermediates/cmake/release/obj/mips/liblsl.so"
+    }
+  }
+}
