@@ -9,5 +9,19 @@ Thus far the library is tested on the [android studio](https://developer.android
 * [Android SDK Tools (26.1.1 or above)](https://developer.android.com/studio/releases/sdk-tools)
 
 ## Installation in Your Mobile App
-### In Android Studio
-   + In your gradle file add 
+### In Android Studio (gradle)
+   * Add it in your root build.gradle at the end of repositories:
+```javascript
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+* Add the dependency: 
+```javascript
+   	dependencies {
+	        implementation 'com.github.acmaheri:LSLforAndroid:v0.0.01'
+	}
+ ```
