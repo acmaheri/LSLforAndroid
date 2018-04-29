@@ -27,6 +27,6 @@ Thus far the library is tested on the [android studio](https://developer.android
  ```
 * You may also need to modify your ```local.properties``` file so that it includes the path to your ndk and sdk
 ```javascript
-ndk.dir=<your-path-name>/android-ndk-r14b
-sdk.dir=<your-path-name>/Sdk
+        ndk.dir=<your-path-name>/android-ndk-r14b
+        sdk.dir=<your-path-name>/Sdk
 ```
