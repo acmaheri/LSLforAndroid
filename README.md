@@ -10,36 +10,11 @@ Thus far the library is tested on the [android studio](https://developer.android
 
 ## Installation in Your Mobile App
 ### In Android Studio (gradle)
-   * Add it in your root build.gradle at the end of repositories:
-```javascript
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
-```
-* Add the dependency: 
-```javascript
-   	dependencies {
-	        implementation 'com.github.acmaheri:LSLforAndroid:v0.0.01'
-	}
- ```
-* You may also need to modify your (automatically generated) ```local.properties``` file so that it includes the path to your ndk and sdk
-```javascript
-        ndk.dir=<your-path-name>/android-ndk-r14b
-        sdk.dir=<your-path-name>/Sdk
-```
+   * clone this repo via ``` git clone https://github.com/acmaheri/LSLforAndroid.git``` and import and integrate it in your android studio enviroment. 
+
 ### Updates
 * ``` v0.0.01 ```
-     + The release is compiled as an app which includes the lsl android library and a demo application which demonstrates the usability of LSL in a mobile device.
-* ``` v0.0.02 ```
      + The demo app is disabled.
-     + The release is compiled in a generic ```.aar``` library format so as to allow easier multi platforms intergration.  The output ```.aar``` library file can be found [here](https://github.com/acmaheri/LSLforAndroid/tree/master/libAndroidLSL/build/outputs/aar), alternatively you may include this version by replacing the library release version number your in gradle file as follows
-	```javascript
-   	       dependencies {
-	               implementation 'com.github.acmaheri:LSLforAndroid:v0.0.02'
-	}
-	```
+     + The release is compiled in a generic ```.aar``` library format so as to allow easier multi platforms intergration.  The output ```.aar``` library file can be found [here](https://github.com/acmaheri/LSLforAndroid/tree/master/libAndroidLSL/build/outputs/aar), probably you may need also those dependecies`
 	
    
