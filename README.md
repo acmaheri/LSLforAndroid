@@ -31,11 +31,11 @@ Thus far the library is tested on the [android studio](https://developer.android
         sdk.dir=<your-path-name>/Sdk
 ```
 ### Updates
-* ``` v0.0.02 ```
+* ``` v0.0.01 ```
      + The release is compiled as an app which includes the lsl android library and a demo application which demonstrates the usability of LSL in a mobile device.
 * ``` v0.0.02 ```
      + The demo app is disabled.
-     + The release is compiled in a generic .aar library format so as to allow easier multi platforms intergration.  The output .aar library is found here, alternatively you may include this version by replacing the library release version number your  gradle file as follows
+     + The release is compiled in a generic ```.aar``` library format so as to allow easier multi platforms intergration.  The output ```.aar``` library file can be found [here](), alternatively you may include this version by replacing the library release version number your  gradle file as follows
 	```javascript
    	       dependencies {
 	               implementation 'com.github.acmaheri:LSLforAndroid:v0.0.02'
