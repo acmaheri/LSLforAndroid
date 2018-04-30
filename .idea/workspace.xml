@@ -5,38 +5,285 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="30625e72-83d1-44c4-9b55-a2b7df9553bb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____home_acmaheri_Documents_Privatsforschung_LSLforAndroid_dependecies_libs_jna_4_2_2_jar_unspecified_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_0_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_0_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_26_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_26_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_0_2_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_26_1_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_26_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_26_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_26_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_26_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_26_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_1_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LSLforAndroid.iml" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/.ninja_deps" afterPath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/.ninja_deps" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/.ninja_log" afterPath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/.ninja_log" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/chrono/src/chrono.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/codecvt_error_category.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/operations.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/path.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/path_traits.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/portability.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/unique_path.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/utf8_codecvt_facet.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/windows_file_codecvt.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/archive_exception.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_archive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_iserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_oserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_pointer_iserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_pointer_oserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_serializer_map.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_wiarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_woarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/codecvt_null.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info_no_rtti.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info_typeid.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/polymorphic_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/polymorphic_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/shared_ptr_helper.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/stl_port.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/utf8_codecvt_facet.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/void_cast.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/system/src/error_code.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/once.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/once_atomic.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/thread.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/tss_null.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/api_config.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/common.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/consumer_queue.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/data_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/dllmain.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/info_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/inlet_connection.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/legacy/legacy_abi.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_continuous_resolver_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_freefuncs_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_inlet_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_outlet_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_streaminfo_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_xml_element_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/pugixml/pugixml.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/resolve_attempt_udp.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/resolver_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/sample.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/send_buffer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/socket_utils.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/stream_info_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/stream_outlet_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/tcp_server.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/time_postprocessor.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/time_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/lsl.dir/dependecies/liblsl/src/udp_server.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/.ninja_deps" afterPath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/.ninja_deps" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/.ninja_log" afterPath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/.ninja_log" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/chrono/src/chrono.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/codecvt_error_category.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/operations.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/path.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/path_traits.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/portability.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/unique_path.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/utf8_codecvt_facet.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/windows_file_codecvt.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/archive_exception.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_archive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_iserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_oserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_pointer_iserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_pointer_oserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_serializer_map.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_wiarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_woarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/codecvt_null.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info_no_rtti.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info_typeid.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/polymorphic_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/polymorphic_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/shared_ptr_helper.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/stl_port.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/utf8_codecvt_facet.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/void_cast.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/system/src/error_code.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/once.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/once_atomic.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/thread.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/tss_null.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/api_config.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/common.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/consumer_queue.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/data_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/dllmain.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/info_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/inlet_connection.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/legacy/legacy_abi.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_continuous_resolver_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_freefuncs_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_inlet_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_outlet_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_streaminfo_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_xml_element_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/pugixml/pugixml.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/resolve_attempt_udp.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/resolver_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/sample.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/send_buffer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/socket_utils.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/stream_info_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/stream_outlet_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/tcp_server.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/time_postprocessor.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/time_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/lsl.dir/dependecies/liblsl/src/udp_server.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/.ninja_deps" afterPath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/.ninja_deps" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/.ninja_log" afterPath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/.ninja_log" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/chrono/src/chrono.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/codecvt_error_category.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/operations.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/path.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/path_traits.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/portability.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/unique_path.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/utf8_codecvt_facet.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/windows_file_codecvt.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/archive_exception.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_archive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_iserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_oserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_pointer_iserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_pointer_oserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_serializer_map.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_wiarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_woarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/codecvt_null.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info_no_rtti.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info_typeid.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/polymorphic_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/polymorphic_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/shared_ptr_helper.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/stl_port.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/utf8_codecvt_facet.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/void_cast.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/system/src/error_code.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/once.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/once_atomic.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/thread.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/tss_null.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/api_config.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/common.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/consumer_queue.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/data_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/dllmain.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/info_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/inlet_connection.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/legacy/legacy_abi.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_continuous_resolver_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_freefuncs_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_inlet_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_outlet_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_streaminfo_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_xml_element_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/pugixml/pugixml.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/resolve_attempt_udp.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/resolver_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/sample.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/send_buffer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/socket_utils.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/stream_info_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/stream_outlet_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/tcp_server.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/time_postprocessor.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/time_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/mips/CMakeFiles/lsl.dir/dependecies/liblsl/src/udp_server.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/.ninja_deps" afterPath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/.ninja_deps" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/.ninja_log" afterPath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/.ninja_log" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/chrono/src/chrono.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/codecvt_error_category.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/operations.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/path.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/path_traits.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/portability.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/unique_path.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/utf8_codecvt_facet.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/filesystem/src/windows_file_codecvt.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/archive_exception.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_archive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_iserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_oserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_pointer_iserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_pointer_oserializer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/basic_serializer_map.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_wiarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/binary_woarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/codecvt_null.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info_no_rtti.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/extended_type_info_typeid.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/polymorphic_iarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/polymorphic_oarchive.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/shared_ptr_helper.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/stl_port.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/utf8_codecvt_facet.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/serialization/src/void_cast.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/system/src/error_code.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/once.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/once_atomic.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/pthread/thread.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/external/src/thread/src/tss_null.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/api_config.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/common.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/consumer_queue.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/data_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/dllmain.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/info_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/inlet_connection.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/legacy/legacy_abi.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_continuous_resolver_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_freefuncs_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_inlet_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_outlet_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_streaminfo_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/lsl_xml_element_c.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/pugixml/pugixml.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/resolve_attempt_udp.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/resolver_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/sample.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/send_buffer.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/socket_utils.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/stream_info_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/stream_outlet_impl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/tcp_server.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/time_postprocessor.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/time_receiver.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/.externalNativeBuild/cmake/debug/x86/CMakeFiles/lsl.dir/dependecies/liblsl/src/udp_server.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/build.gradle" afterPath="$PROJECT_DIR$/libAndroidLSL/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/libAndroidLSL/libAndroidLSL.iml" afterPath="$PROJECT_DIR$/libAndroidLSL/libAndroidLSL.iml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,7 +335,17 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/libAndroidLSL/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-594">
+            <state relative-caret-position="90">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -98,7 +355,7 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-35">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -137,13 +394,6 @@
       </file>
       <file leaf-file-name="ic_launcher.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libAndroidLSL/src/main/res/mipmap-hdpi/ic_launcher.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ic_launcher_round.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libAndroidLSL/src/main/res/mipmap-hdpi/ic_launcher_round.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -211,7 +461,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="bundleAppClassesRelease" />
+                <option name="name" value="packageReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeReleaseConsumerProguardFiles" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -219,7 +473,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformClassesWithDexBuilderForDebug" />
+                <option name="name" value="transformNativeLibsWithSyncJniLibsForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -227,7 +481,12 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="bundleReleaseResources" />
+                <option name="name" value="transformClassesAndResourcesWithPrepareIntermediateJarsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in debug." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bundleDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -243,8 +502,9 @@
                 <option name="name" value="lintDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in release." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preparePUBLISHED_JAVA_RESReleaseForPublishing" />
+                <option name="name" value="bundleRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -260,21 +520,9 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="createReleaseCompatibleScreenManifests" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mockableAndroidJar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preparePUBLISHED_DEXReleaseForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="bundleAppClassesDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from root project 'LSLforAndroid' (some of the displayed tasks may belong to subprojects)." />
@@ -286,9 +534,17 @@
                 <option name="name" value="compileDebugSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesAndResourcesWithPrepareIntermediateJarsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Initializes a new Gradle build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageReleaseRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -300,13 +556,13 @@
                 <option name="name" value="deviceCheck" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithIntermediateJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in root project 'LSLforAndroid'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -319,19 +575,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="packageDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformClassesWithDexBuilderForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="bundleAppClassesReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -363,6 +607,10 @@
                 <option name="description" value="Deletes the build cache directory." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="cleanBuildCache" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDefault" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -419,6 +667,11 @@
                 <option name="name" value="preDebugAndroidTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Extracts Android annotations for the debug variant into the archive file" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="extractDebugAnnotations" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processDebugAndroidTestJavaRes" />
               </ExternalTaskPojo>
@@ -432,24 +685,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="javaPreCompileDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="splitsDiscoveryTaskDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="bundleAppClassesDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Release build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="uninstallRelease" />
+                <option name="name" value="transformClassesAndResourcesWithSyncLibJarsForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -461,7 +701,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithIntermediateJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesAndResourcesWithSyncLibJarsForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -473,15 +721,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="verifyReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithSyncJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugAndroidTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="createDebugCompatibleScreenManifests" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preparePUBLISHED_NATIVE_LIBSReleaseForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -492,10 +744,6 @@
                 <option name="name" value="prepareLintJar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Installs and runs instrumentation tests using all Device Providers." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="deviceAndroidTest" />
@@ -503,10 +751,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeDebugAndroidTestAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preparePUBLISHED_NATIVE_LIBSDebugForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -528,20 +772,20 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformDexArchiveWithDexMergerForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preReleaseBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="writeDebugApplicationId" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles all variants of all applications and secondary packages." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="createFullJarDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateReleaseRFile" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
@@ -559,7 +803,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mainApkListPersistenceDebug" />
+                <option name="name" value="packageReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -586,10 +830,6 @@
                 <option name="name" value="javaPreCompileRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="splitsDiscoveryTaskRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="connectedCheck" />
@@ -598,10 +838,6 @@
                 <option name="description" value="Installs and runs the tests for debug on connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="connectedDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformDexArchiveWithDexMergerForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstall all applications." />
@@ -619,19 +855,16 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Extracts Android annotations for the release variant into the archive file" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preparePUBLISHED_DEXDebugForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="packageRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="validateSigningDebug" />
+                <option name="name" value="extractReleaseAnnotations" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -657,10 +890,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugAndroidTestResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="mainApkListPersistenceRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -706,10 +935,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="preparePUBLISHED_JAVA_RESDebugForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -772,11 +997,6 @@
                 <option name="name" value="connectedAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="installDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preBuild" />
               </ExternalTaskPojo>
@@ -803,6 +1023,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateDebugRFile" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs lint on the Release build." />
@@ -851,15 +1075,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="bundleDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="createFullJarRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="packageDebugRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -878,18 +1106,8 @@
                 <option name="name" value="generateReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the release build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="lintVitalRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="platformAttrExtractor" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="uninstallDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the signing info for each variant." />
@@ -910,10 +1128,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="bundleAppClassesDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -927,10 +1141,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugBuildConfig" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
@@ -948,6 +1158,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeDebugConsumerProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugAndroidTestRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -957,10 +1171,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processDebugManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="writeReleaseApplicationId" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -988,7 +1198,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="bundleAppClassesRelease" />
+                <option name="name" value="packageReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="mergeReleaseConsumerProguardFiles" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -996,7 +1210,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="transformClassesWithDexBuilderForDebug" />
+                <option name="name" value="transformNativeLibsWithSyncJniLibsForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1004,7 +1218,12 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="bundleReleaseResources" />
+                <option name="name" value="transformClassesAndResourcesWithPrepareIntermediateJarsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in debug." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="bundleDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1020,8 +1239,9 @@
                 <option name="name" value="lintDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Assembles a bundle containing the library in release." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="preparePUBLISHED_JAVA_RESReleaseForPublishing" />
+                <option name="name" value="bundleRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1030,10 +1250,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="assembleDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="createReleaseCompatibleScreenManifests" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
@@ -1046,14 +1262,6 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="preparePUBLISHED_DEXReleaseForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="bundleAppClassesDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from project ':libAndroidLSL'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="tasks" />
@@ -1061,6 +1269,14 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="compileDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="transformClassesAndResourcesWithPrepareIntermediateJarsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="packageReleaseRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1072,13 +1288,13 @@
                 <option name="name" value="deviceCheck" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="transformNativeLibsWithIntermediateJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':libAndroidLSL'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="processDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1091,19 +1307,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="packageDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="transformClassesWithDexBuilderForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="generateDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="bundleAppClassesReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1135,6 +1339,10 @@
                 <option name="description" value="Deletes the build cache directory." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="cleanBuildCache" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="assembleDefault" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1191,6 +1399,11 @@
                 <option name="name" value="preDebugAndroidTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Extracts Android annotations for the debug variant into the archive file" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="extractDebugAnnotations" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="processDebugAndroidTestJavaRes" />
               </ExternalTaskPojo>
@@ -1204,24 +1417,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="javaPreCompileDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="splitsDiscoveryTaskDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="bundleAppClassesDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Release build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="uninstallRelease" />
+                <option name="name" value="transformClassesAndResourcesWithSyncLibJarsForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1233,7 +1433,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="transformNativeLibsWithIntermediateJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="generateDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="transformClassesAndResourcesWithSyncLibJarsForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1245,15 +1453,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="verifyReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="packageDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="transformNativeLibsWithSyncJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="compileDebugAndroidTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="createDebugCompatibleScreenManifests" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="preparePUBLISHED_NATIVE_LIBSReleaseForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1264,10 +1476,6 @@
                 <option name="name" value="prepareLintJar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="processReleaseResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Installs and runs instrumentation tests using all Device Providers." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="deviceAndroidTest" />
@@ -1275,10 +1483,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="mergeDebugAndroidTestAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="preparePUBLISHED_NATIVE_LIBSDebugForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1300,20 +1504,20 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="transformDexArchiveWithDexMergerForRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="preReleaseBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="writeDebugApplicationId" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles all variants of all applications and secondary packages." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="createFullJarDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="generateReleaseRFile" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
@@ -1331,7 +1535,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="mainApkListPersistenceDebug" />
+                <option name="name" value="packageReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1358,10 +1562,6 @@
                 <option name="name" value="javaPreCompileRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="splitsDiscoveryTaskRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="connectedCheck" />
@@ -1370,10 +1570,6 @@
                 <option name="description" value="Installs and runs the tests for debug on connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="connectedDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="transformDexArchiveWithDexMergerForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstall all applications." />
@@ -1391,19 +1587,16 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="packageDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="processDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Extracts Android annotations for the release variant into the archive file" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="preparePUBLISHED_DEXDebugForPublishing" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="packageRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="validateSigningDebug" />
+                <option name="name" value="extractReleaseAnnotations" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1424,10 +1617,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="generateDebugAndroidTestResValues" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="mainApkListPersistenceRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1473,10 +1662,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="assembleDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="preparePUBLISHED_JAVA_RESDebugForPublishing" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1539,11 +1724,6 @@
                 <option name="name" value="connectedAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="installDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="preBuild" />
               </ExternalTaskPojo>
@@ -1570,6 +1750,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="compileReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="generateDebugRFile" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs lint on the Release build." />
@@ -1618,15 +1802,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="bundleDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="mergeReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="createFullJarRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="packageDebugRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -1645,18 +1833,8 @@
                 <option name="name" value="generateReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the release build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="lintVitalRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="platformAttrExtractor" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="uninstallDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the signing info for each variant." />
@@ -1676,10 +1854,6 @@
                 <option name="name" value="mergeDebugAndroidTestShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="bundleAppClassesDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Deletes the build directory." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="clean" />
@@ -1697,10 +1871,6 @@
                 <option name="name" value="generateDebugBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="build" />
@@ -1716,6 +1886,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
+                <option name="name" value="mergeDebugConsumerProguardFiles" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="compileDebugAndroidTestRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -1725,10 +1899,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
                 <option name="name" value="processDebugManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
-                <option name="name" value="writeReleaseApplicationId" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/libAndroidLSL" />
@@ -2230,14 +2400,14 @@
       <list>
         <option value="$PROJECT_DIR$/libAndroidLSL/src/main/java/lib/android/lsl/lsltestApp.java" />
         <option value="$PROJECT_DIR$/libAndroidLSL/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/libAndroidLSL/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="135" />
-    <option name="y" value="40" />
-    <option name="width" value="1358" />
-    <option name="height" value="703" />
+    <option name="y" value="-4" />
+    <option name="width" value="680" />
+    <option name="height" value="739" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -2281,6 +2451,9 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="ZX1D227WZM" />
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
+    <property name="android.project.structure.last.selected" value="libAndroidLSL" />
+    <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2402,6 +2575,18 @@
       <module name="" />
       <envs />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="LSLforAndroid" />
+      <envs />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -2500,28 +2685,38 @@
       <configuration name="ExampleUnitTest" configurationId="AndroidJUnit" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="40" width="1362" height="747" extended-state="6" />
+    <frame x="0" y="-4" width="1360" height="739" extended-state="6" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16133942" sideWeight="0.50855744" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3432268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16133942" sideWeight="0.49144253" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961948" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2532,7 +2727,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2572,14 +2766,6 @@
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2646,14 +2832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libAndroidLSL/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
@@ -2665,9 +2843,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -2675,8 +2869,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libAndroidLSL/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
