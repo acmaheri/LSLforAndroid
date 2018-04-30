@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/acmaheri/Documents/Privatsforschung/LSLforAndroid/libAndroidLSL/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher_round.xml",
+        "source": "/home/acmaheri/Documents/Privatsforschung/LSLforAndroid/libAndroidLSL/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/acmaheri/Documents/Privatsforschung/LSLforAndroid/libAndroidLSL/build/intermediates/res/merged/release/mipmap-anydpi-v26/ic_launcher.xml",
+        "source": "/home/acmaheri/Documents/Privatsforschung/LSLforAndroid/libAndroidLSL/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

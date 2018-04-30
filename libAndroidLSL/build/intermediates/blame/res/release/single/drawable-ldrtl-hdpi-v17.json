@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/acmaheri/Documents/Privatsforschung/LSLforAndroid/libAndroidLSL/build/intermediates/res/merged/release/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/acmaheri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b39a5fb0956aad6645f15898f795237f/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/acmaheri/Documents/Privatsforschung/LSLforAndroid/libAndroidLSL/build/intermediates/res/merged/release/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/acmaheri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b39a5fb0956aad6645f15898f795237f/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/acmaheri/Documents/Privatsforschung/LSLforAndroid/libAndroidLSL/build/intermediates/res/merged/release/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/acmaheri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b39a5fb0956aad6645f15898f795237f/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]
