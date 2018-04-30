@@ -10,7 +10,7 @@ Thus far the library is tested on the [android studio](https://developer.android
 
 ## Installation in Your Mobile App
 ### In Android Studio (gradle)
-   * clone this repo via ``` git clone https://github.com/acmaheri/LSLforAndroid.git``` and import and integrate it into your android studio environment. 
+   * clone this repo via ``` git clone https://github.com/acmaheri/LSLforAndroid.git``` then import and integrate it into your android studio environment. 
 
 ### Updates
 * ``` v0.0.01 ```
